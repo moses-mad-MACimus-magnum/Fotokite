@@ -1,0 +1,3 @@
+Record=SheetSymbol|SourceDocument=Connector.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Connector.SchDoc|Designator=uC|SchDesignator=uC|FileName=uC.SchDoc|SymbolType=Normal|RawFileName=uC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Connector.SchDoc
